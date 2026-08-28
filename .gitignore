@@ -1,0 +1,31 @@
+# --- Python ---
+__pycache__/
+logs/
+
+# --- PyInstaller build output ---
+build/
+dist/
+
+# --- Virtual Environments ---
+.venv/
+venv/
+ENV/
+env/
+bin/
+include/
+lib/
+scripts/
+
+# --- Environment Variables / Secrets ---
+.env
+.venv
+env.ini
+pip-log.txt
+
+# --- Data and Logs ---
+*.log
+*.csv
+
+# --- Qt Creator ---
+.qtcreator/
+*.pyproject.user

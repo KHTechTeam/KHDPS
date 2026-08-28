@@ -1,0 +1,19 @@
+{
+    "files": [
+        "add_conc.ui",
+        "calibwindow.ui",
+        "data_analysis.py",
+        "folder_compiler.ui",
+        "form.ui",
+        "graph_canvas.py",
+        "graphing.ui",
+        "main.py",
+        "mainwindow.py",
+        "resources.py",
+        "ui_add_conc.py",
+        "ui_calibwindow.py",
+        "ui_folder_compiler.py",
+        "ui_form.py",
+        "ui_graphing.py"
+    ]
+}
