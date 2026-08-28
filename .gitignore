@@ -1,0 +1,33 @@
+build/ dist/
+
+# --- Python ---
+__pycache__/
+logs/
+
+# --- Virtual Environments ---
+.venv/
+venv/
+ENV/
+env/
+bin/
+include/
+lib/
+scripts/
+
+# --- Environment Variables / Secrets ---
+.env
+.venv
+env.ini
+pip-log.txt
+
+# --- Data & Logs ---
+*.log
+*.csv
+
+# --- Qt Creator ---
+# Ignore the local user settings folder
+.qtcreator/
+
+# Ignore the project user settings
+*.pyproject.user
+
